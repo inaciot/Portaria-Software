@@ -1,0 +1,13 @@
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\bin\Debug\PORTARIA-EXPRESS.exe
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\bin\Debug\PORTARIA-EXPRESS.pdb
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\bin\Debug\PORTARIA-EXPRESS.xml
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\WindowsApplication1.splash.resources
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\PORTARIA-EXPRESS.vbproj.GenerateResource.Cache
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\PORTARIA-EXPRESS.exe
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\PORTARIA-EXPRESS.xml
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\PORTARIA-EXPRESS.pdb
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\bin\Debug\PORTARIA-EXPRESS.exe.config
+C:\Users\inacio.HOSPITAL\documents\visual studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\obj\x86\Debug\WindowsApplication1.CADASTRO.resources
+C:\Users\inacio.HOSPITAL\Documents\Visual Studio 2010\Projects\PORTARIA-EXPRESS\PORTARIA-EXPRESS\bin\Debug\Database1.accdb
